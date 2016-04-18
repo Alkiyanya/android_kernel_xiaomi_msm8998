@@ -399,4 +399,6 @@ alternative_endif
 	mrs	\rd, sp_el0
 	.endm
 
+=======
+>>>>>>> 45eecfb9c5f5... arm64: introduce mov_q macro to move a constant into a 64-bit register
 #endif	/* __ASM_ASSEMBLER_H */
